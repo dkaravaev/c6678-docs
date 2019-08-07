@@ -17,4 +17,6 @@
 
 2. Гид для разработчика (Developer's Guide) по TI RTOS: http://software-dl.ti.com/processor-sdk-rtos/esd/docs/latest/rtos/index.html
 
+3. Посты на Хабре: https://habr.com/en/users/vsv630/posts/
+
    

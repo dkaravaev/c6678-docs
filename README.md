@@ -10,6 +10,7 @@
 6. В целом про TI RTOS (на самом деле материал про C2000): https://training.ti.com/c2000-development-tools-training-series
 7. Хорошая картинка для продвинутых по TI RTOS: https://training.ti.com/rtos-concepts-overview
 8. Про DSP (OpenMP/OpenCL): https://training.ti.com/leveraging-dsp-linux-and-rtos-parallel-processing-and-software-support
+9. Все возможные документы, касающиеся C6678: http://www.ti.com/product/TMS320C6678/technicaldocuments
 
 Тексты:
 
